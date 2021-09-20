@@ -12,3 +12,8 @@ https://reactnative.dev/docs/environment-setup
 (All installation instructions by the link)
 4. 'git clone https://github.com/Maksim-Lipenka/TestPasswordsTask.git'
 then simply run 'npm run ios' for iOS or 'npm run android' for Android in the project directory
+
+
+
+https://user-images.githubusercontent.com/43496357/134011443-d13040eb-b443-4a01-8c48-8ddc4c0e7cc1.mov
+
