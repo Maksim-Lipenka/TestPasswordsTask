@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputText renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+>
+  <Text>
+    Password
+  </Text>
+  <TextInput
+    autoCapitalize="none"
+    onChangeText={[MockFunction]}
+    style={
+      Array [
+        Object {
+          "borderColor": "#1f1f1f",
+          "borderWidth": 1,
+          "height": 37,
+          "marginBottom": 12,
+          "paddingLeft": 8,
+          "paddingRight": 32,
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
